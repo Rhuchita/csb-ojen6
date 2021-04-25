@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://rhuchita.github.io/csb-ojen6/static/css/main.81af98cf.chunk.css",
+    "main.js": "https://rhuchita.github.io/csb-ojen6/static/js/main.228e5f4b.chunk.js",
+    "main.js.map": "https://rhuchita.github.io/csb-ojen6/static/js/main.228e5f4b.chunk.js.map",
+    "runtime-main.js": "https://rhuchita.github.io/csb-ojen6/static/js/runtime-main.13d86422.js",
+    "runtime-main.js.map": "https://rhuchita.github.io/csb-ojen6/static/js/runtime-main.13d86422.js.map",
+    "static/css/2.77cf4ef6.chunk.css": "https://rhuchita.github.io/csb-ojen6/static/css/2.77cf4ef6.chunk.css",
+    "static/js/2.1ecc9c2e.chunk.js": "https://rhuchita.github.io/csb-ojen6/static/js/2.1ecc9c2e.chunk.js",
+    "static/js/2.1ecc9c2e.chunk.js.map": "https://rhuchita.github.io/csb-ojen6/static/js/2.1ecc9c2e.chunk.js.map",
+    "index.html": "https://rhuchita.github.io/csb-ojen6/index.html",
+    "static/css/2.77cf4ef6.chunk.css.map": "https://rhuchita.github.io/csb-ojen6/static/css/2.77cf4ef6.chunk.css.map",
+    "static/css/main.81af98cf.chunk.css.map": "https://rhuchita.github.io/csb-ojen6/static/css/main.81af98cf.chunk.css.map",
+    "static/js/2.1ecc9c2e.chunk.js.LICENSE.txt": "https://rhuchita.github.io/csb-ojen6/static/js/2.1ecc9c2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13d86422.js",
+    "static/css/2.77cf4ef6.chunk.css",
+    "static/js/2.1ecc9c2e.chunk.js",
+    "static/css/main.81af98cf.chunk.css",
+    "static/js/main.228e5f4b.chunk.js"
+  ]
+}
